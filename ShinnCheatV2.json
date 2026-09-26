@@ -1,163 +1,452 @@
 {
   "schemaVersion": 1,
-  "identifier": "com.shinn.repov2",
-  "name": "Shinn Cheat Repository",
-  "description": "ShinnCheatCode RepoV2",
+  "identifier": "com.shinn.cheat",
+  "name": "Shinn Cheat",
+  "description": "Shinn Cheat Repository",
   "accentColor": "#000000",
   "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png",
   "packages": [
     {
-      "identifier": "com.shinn.patch.aim.drag.v2.ffth.3105",
+      "identifier": "com.shinn.aimdragv2ffth",
       "name": "Aim Drag V2 FFTH.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire",
-      "size": 47603,
+      "summary": "AIM - Drag Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Drag%20V2%20FFTH.3105",
       "sha256": "a39f3e906befd6aae5523599aefc178accd5af4fcc5aac91f208d2aba08cc636",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Drag%20V2%20FFTH.3105"
+      "size": 47603,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.aim.lock.ffth.3105",
+      "identifier": "com.shinn.aimlockffth",
       "name": "Aim Lock FFTH.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire",
-      "size": 39927,
+      "summary": "AIM - Lock Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Lock%20FFTH.3105",
       "sha256": "487cd7142a3438cccbb20be96fd0053763cc741ec8640916ba38ed0b99d52c95",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Lock%20FFTH.3105"
+      "size": 39927,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.aim.lock.v1.ffm.3105",
+      "identifier": "com.shinn.aimlockv1ffm",
       "name": "Aim Lock V1 FFM.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire MAX",
-      "size": 39932,
+      "summary": "AIM - Lock Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Lock%20V1%20FFM.3105",
       "sha256": "c6f7afa15d84b02894b7792cf69d9c7ec397d99f382a35ab32f08868c79324c4",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Lock%20V1%20FFM.3105"
+      "size": 39932,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.aim.lock.v2.ffm.3105",
+      "identifier": "com.shinn.aimlockv2ffm",
       "name": "Aim Lock V2 FFM.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire MAX",
-      "size": 39932,
+      "summary": "AIM - Lock Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Lock%20V2%20FFM.3105",
       "sha256": "00952450061bf7d7099f42da07310ac6ca9fe401f10b31082b19da4ad448db3d",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Lock%20V2%20FFM.3105"
-    },
-    {
-      "identifier": "com.shinn.patch.aim.lock.v2.ffth.3105",
-      "name": "Aim Lock V2 FFTH.3105",
-      "version": "5.0.5",
-      "category": "Free Fire",
       "size": 39932,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
+    },
+    {
+      "identifier": "com.shinn.aimlockv2ffth",
+      "name": "Aim Lock V2 FFTH.3105",
+      "author": "Shinn Cheat",
+      "version": "5.0.5",
+      "summary": "AIM - Lock Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Lock%20V2%20FFTH.3105",
       "sha256": "327a15c01078ad56b004f1548f9ee051d388cc9f22c2a26b518241fa3d6d0957",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Lock%20V2%20FFTH.3105"
+      "size": 39932,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.aim.neck.v2.fft.3105",
+      "identifier": "com.shinn.aimneckv2fft",
       "name": "Aim Neck V2 FFT.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire",
-      "size": 64446,
+      "summary": "AIM - Neck Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Neck%20V2%20FFT.3105",
       "sha256": "624a44e61d5a8250cb6e5bdce2aa43ce3caacded0f1a7d0779ee724cbcd81963",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Aim%20Neck%20V2%20FFT.3105"
+      "size": 64446,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.capcut.pro.3105",
+      "identifier": "com.shinn.capcutpro",
       "name": "Capcut Pro.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Ứng dụng",
-      "size": 34406,
+      "summary": "Capcut Pro",
+      "description": "Shinn Cheat Resource",
+      "category": "App",
+      "tags": [
+        "App",
+        "Capcut"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Capcut%20Pro.3105",
       "sha256": "84290691028ebb7f3cbecaf136d014f706ddae7debfaa35a3db5fd84f48fce2e",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Capcut%20Pro.3105"
+      "size": 34406,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.menu.ffm.v1.3105",
+      "identifier": "com.shinn.menuffmv1",
       "name": "Menu FFM V1.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire MAX",
-      "size": 69479,
+      "summary": "Menu Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20FFM%20V1.3105",
       "sha256": "ad2a3a499b222d779e1019ea48f7d3a7613edbf173213eecea33e17df2f7329f",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20FFM%20V1.3105"
-    },
-    {
-      "identifier": "com.shinn.patch.menu.ffm.v2.3105",
-      "name": "Menu FFM V2.3105",
-      "version": "5.0.5",
-      "category": "Free Fire MAX",
-      "size": 21166,
-      "sha256": "4f1010c5863271500d86c159e03466a21ec2c99c75bfac9f0f5e4d5580164bdd",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20FFM%20V2.3105"
-    },
-    {
-      "identifier": "com.shinn.patch.menu.ffm.v3.3105",
-      "name": "Menu FFM V3.3105",
-      "version": "5.0.5",
-      "category": "Free Fire MAX",
-      "size": 48331,
-      "sha256": "1d84c61f4a1c905f3551e22fe9349a762ec2b8e9e6251b471410eb6fc7d90a5a",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20FFM%20V3.3105"
-    },
-    {
-      "identifier": "com.shinn.patch.menu.ffm.v4.3105",
-      "name": "Menu FFM V4.3105",
-      "version": "5.0.5",
-      "category": "Free Fire MAX",
-      "size": 48331,
-      "sha256": "e87ff1dbbbc1a9db9bac23bf8a12e69dcb04bd8d6e79dc39f027146733a93b38",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20FFM%20V4.3105"
-    },
-    {
-      "identifier": "com.shinn.patch.menu.v1.ffth.3105",
-      "name": "Menu V1 FFTH.3105",
-      "version": "5.0.5",
-      "category": "Free Fire",
       "size": 69479,
-      "sha256": "9e7181abd99f974ee6fbbff39f70dcb220ea4c22c2d4ce1be5b87250c30b02aa",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V1%20FFTH.3105"
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.menu.v2.ffth.3105",
-      "name": "Menu V2 FFTH.3105",
+      "identifier": "com.shinn.menuffmv2",
+      "name": "Menu FFM V2.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire",
+      "summary": "Menu Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20FFM%20V2.3105",
+      "sha256": "4f1010c5863271500d86c159e03466a21ec2c99c75bfac9f0f5e4d5580164bdd",
       "size": 21166,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
+    },
+    {
+      "identifier": "com.shinn.menuffmv3",
+      "name": "Menu FFM V3.3105",
+      "author": "Shinn Cheat",
+      "version": "5.0.5",
+      "summary": "Menu Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20FFM%20V3.3105",
+      "sha256": "1d84c61f4a1c905f3551e22fe9349a762ec2b8e9e6251b471410eb6fc7d90a5a",
+      "size": 48331,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
+    },
+    {
+      "identifier": "com.shinn.menuffmv4",
+      "name": "Menu FFM V4.3105",
+      "author": "Shinn Cheat",
+      "version": "5.0.5",
+      "summary": "Menu Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20FFM%20V4.3105",
+      "sha256": "e87ff1dbbbc1a9db9bac23bf8a12e69dcb04bd8d6e79dc39f027146733a93b38",
+      "size": 48331,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
+    },
+    {
+      "identifier": "com.shinn.menuv1ffth",
+      "name": "Menu V1 FFTH.3105",
+      "author": "Shinn Cheat",
+      "version": "5.0.5",
+      "summary": "Menu Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V1%20FFTH.3105",
+      "sha256": "9e7181abd99f974ee6fbbff39f70dcb220ea4c22c2d4ce1be5b87250c30b02aa",
+      "size": 69479,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
+    },
+    {
+      "identifier": "com.shinn.menuv2ffth",
+      "name": "Menu V2 FFTH.3105",
+      "author": "Shinn Cheat",
+      "version": "5.0.5",
+      "summary": "Menu Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V2%20FFTH.3105",
       "sha256": "c0fb97ebbdf5157c7b23781b73793b7eef5b7abb926a50ef9ad5d26bcac8112d",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V2%20FFTH.3105"
+      "size": 21166,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.menu.v3.ffth.3105",
+      "identifier": "com.shinn.menuv3ffth",
       "name": "Menu V3 FFTH.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire",
-      "size": 48331,
+      "summary": "Menu Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V3%20FFTH.3105",
       "sha256": "532b40c0a9891ec1520a3f9c341c9b7b59bcc836ca21e4625ea7a3b48afc58cc",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V3%20FFTH.3105"
+      "size": 48331,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.menu.v4.ffth.3105",
+      "identifier": "com.shinn.menuv4ffth",
       "name": "Menu V4 FFTH.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire",
-      "size": 48331,
+      "summary": "Menu Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V4%20FFTH.3105",
       "sha256": "99b82b72514306c495c2b916460834d95e7f3ce9795abbd72902ba9b2ea9f3dd",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V4%20FFTH.3105"
+      "size": 48331,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.menu.v5.ffm.3105",
+      "identifier": "com.shinn.menuv5ffm",
       "name": "Menu V5 FFM.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire MAX",
-      "size": 48331,
+      "summary": "Menu Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V5%20FFM.3105",
       "sha256": "af3363ccf1a7fd5a709df1b62ca6142c4985d9db027d3b3f484ec044ddebba7d",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V5%20FFM.3105"
+      "size": 48331,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     },
     {
-      "identifier": "com.shinn.patch.menu.v5.ffth.3105",
+      "identifier": "com.shinn.menuv5ffth",
       "name": "Menu V5 FFTH.3105",
+      "author": "Shinn Cheat",
       "version": "5.0.5",
-      "category": "Free Fire",
-      "size": 48331,
+      "summary": "Menu Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "Menu",
+      "tags": [
+        "Menu",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-26T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V5%20FFTH.3105",
       "sha256": "5b86510b7606b0a30ba9c9d67d0d19754264d9bcb3a98d6578e527b1aff582af",
-      "downloadURL": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/Menu%20V5%20FFTH.3105"
+      "size": 48331,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "27.0"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     }
   ]
 }
