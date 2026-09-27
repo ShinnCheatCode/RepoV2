@@ -743,6 +743,42 @@
       "featured": false,
       "isPrivate": false,
       "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
+    },
+    {
+      "identifier": "com.shinn.patchgocffm3105",
+      "name": "Patch Gốc FFM",
+      "author": "Shinn Cheat",
+      "version": "5.0.5",
+      "summary": "Patch gốc Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "Patch",
+      "tags": ["Patch", "Free Fire Max"],
+      "publishedAt": "2026-09-27T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Mhieuu/refs/heads/main/Patch%20g%E1%BB%91c%20FFM.3105",
+      "sha256": "6de1473e9c6ac676a467549732f4e43f0114ad71f3d0b9202ecccde9d5821424",
+      "size": 64442,
+      "supportedOS": [{ "minimum": "17.0", "maximum": "100.0.0" }],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
+    },
+    {
+      "identifier": "com.shinn.patchgocfft3105",
+      "name": "Patch Gốc FFT",
+      "author": "Shinn Cheat",
+      "version": "5.0.5",
+      "summary": "Patch gốc Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "Patch",
+      "tags": ["Patch", "Free Fire"],
+      "publishedAt": "2026-09-27T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Mhieuu/refs/heads/main/Patch%20g%E1%BB%91c%20FFT.3105",
+      "sha256": "e0e25623f7e07caecbc07825fc053de542a49959c27959acb996ecff9117bc69",
+      "size": 64441,
+      "supportedOS": [{ "minimum": "17.0", "maximum": "100.0.0" }],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "https://raw.githubusercontent.com/ShinnCheatCode/RepoV2/main/1984F7AB-5DB1-4837-BFF6-784BC04A4058.png"
     }
   ]
 }
